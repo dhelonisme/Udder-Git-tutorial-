@@ -17,3 +17,6 @@ class ViewController: UIViewController {
 
 }
 
+struct ABC {
+    let a: Int
+}
